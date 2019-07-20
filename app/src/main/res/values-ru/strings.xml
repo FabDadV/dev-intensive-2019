@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Dev-intensive</string>
+    <string name="answer_hint" translatable="false">Ведите ответ</string>
+    <string name="pic_send" translatable="false">Отправить</string>
+    <string name="pic_name" translatable="false">Робот</string>
+</resources>
